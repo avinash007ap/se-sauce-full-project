@@ -1,2 +1,3 @@
 # se-sauce-full-project
-Complete
+#### This is a  Repository with complete automation of website using both TDD and BDD approaches
+
